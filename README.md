@@ -30,6 +30,8 @@ I am interested in software engineering as I love to inspire and to create proje
  
  🍃 I love to draw, write, and code
  
+ 🍃 My favorite anime is One Piece and Violet Evergarden
+
  🍃 My favorite video game is Legend of Zelda: Breath of the Wild and Genshin Impact 
  ###### 🍃 I am a Jean main
  
