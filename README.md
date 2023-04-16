@@ -13,16 +13,16 @@ I am interested in software engineering as I love to inspire and to create proje
  
  💧  C++
  
- 💧  HTML
+ 💧  HTML & CSS
 
  
 ## Current Goals
  
- ⭐ Code a video game
+ ⭐️ Code a video game
  
  ###### I am planning on making a fantasy RPG with exciting combat and story. Stay tuned for more updates!
  
- ⭐ Create a website
+ ✅️ Create a website
  
  ###### I want to create a website the will showcase my work and style. 
  
